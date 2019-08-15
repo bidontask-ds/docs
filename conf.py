@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'BidOnTask-Docs'
+project = 'BidOnTask'
 copyright = '2019, Prakash Dale'
 author = 'Prakash Dale'
 
